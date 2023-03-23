@@ -1,0 +1,191 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+        color: white;
+        font-size: 25px;
+        background-image: url("https://www.wallpaperflare.com/static/1008/840/884/nature-leaves-plants-green-wallpaper.jpg");
+        background-size: cover;
+}
+
+.nav a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 25px;
+    list-style: none;
+}
+.nav li{
+    list-style: none;
+}
+
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.nav a.active {
+    background-color: darkgreen;
+    color: white;
+} */
+
+
+h1 {
+    text-align: center;
+    color: rgb(202, 198, 195);
+}
+
+h2 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    color:#ECC29A;
+    text-align: center;
+}
+
+h5 {
+    color:rgb(160, 116, 201);
+}
+
+.Sprache{
+    color: rgb(173, 136, 110);
+}
+
+.Python {
+    color:coral ;
+}
+
+.C  {
+    color:cornflowerblue;
+}
+
+.Javascript {
+    color:deeppink ;
+}
+
+.info {
+    font-size:18px;
+    color: rgb(197, 179, 197);
+}
+
+.Unity {
+    color:palevioletred ;
+}
+
+.Unreal {
+    color:darkolivegreen;
+}
+
+.sectool {
+    color: grey;
+}
+
+
+
+/* .glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+.glow-on-hover:active {
+    color: #000
+}
+.glow-on-hover:active:after {
+    background: transparent;
+}
+.glow-on-hover:hover:before {
+    opacity: 1;
+}
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+.glow-on-hover {
+width: 220px;
+height: 50px;
+border: none;
+outline: none;
+color: #fff;
+background: #111;
+cursor: pointer;
+position: relative;
+z-index: 0;
+border-radius: 10px;
+margin-left: 90%;
+} */
+
+.one {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.one li{
+    list-style: none;
+}
+
+.two {
+    width: 50% ;
+    float: left;
+    text-align: center;
+}
+.two li{
+    list-style: none;
+}
+
+.three {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.three li{
+    list-style: none;
+}
+
+.four {
+    width: 50%;
+    float: left;
+    text-align: center;
+    list-style: none;
+}
+.four li {
+    list-style: none;
+}
+
+.five {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.five li{
+    list-style: none;
+}
