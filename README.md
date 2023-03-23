@@ -1,2 +1,2 @@
 # My-Portfolio
-A small overview of my past Projects
+A small Webpage as overview of my past Projects
